@@ -1,6 +1,8 @@
 # Employee-Tracking-Dashboard-Power-BI
 This Power BI Dashboard provides a detailed overview of employee data, segmented by department, gender, age, and other HR metrics. It is designed to support HR teams and managers in tracking workforce trends and making data-driven decisions.
 
+<img width="1310" height="761" alt="image" src="https://github.com/user-attachments/assets/67a89b0f-8c4f-45fb-ae74-b1de8306b56e" />
+
 📊 Dashboard Features
 🟢 Page 1: Employee Overview
 ✅ Slicers:
